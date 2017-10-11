@@ -1,0 +1,34 @@
+
+
+<div id="exTab1">
+<ul  class="nav nav-pills">
+			<li class="active">
+        <a  href="#1a" data-toggle="tab">Photos</a>
+			</li>
+			<li><a href="#2a" data-toggle="tab">Videos</a>
+			</li>
+			
+  		
+		</ul>
+
+			<div class="tab-content clearfix">
+			  <div class="tab-pane active" id="1a">
+          	  	<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.938546142913420.1073741844.362192520548788&amp;type=1&amp;l=7fcffdba06" data-width="auto" data-show-text="false"><blockquote cite="https://www.facebook.com/media/set/?set=a.938546142913420.1073741844.362192520548788&amp;type=3" data-width="auto" class="fb-xfbml-parse-ignore"><p>http://ourgalkot.com</p>Posted by <a href="https://www.facebook.com/golkot/">Galkot</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.938546142913420.1073741844.362192520548788&amp;type=3">Thursday, December 29, 2016</a></blockquote></div>
+				</div>
+
+
+				<div class="tab-pane" id="2a">
+				<div class="abc">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLiY4zFbQdWoJJiL40ZCQX9NOKUq0JZuKJ&amp;controls=0" frameborder="0" allowfullscreen></iframe></div>
+				</div>
+
+
+        
+			</div>
+  </div>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>

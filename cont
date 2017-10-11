@@ -1,0 +1,83 @@
+
+
+निम्न लिखित ठेगाना मा सम्पर्क गर्न सकिनेछ :
+
+लेख रचना र बिचारको लागि:
+ 	
+`bgalkot@gmail.com` 
+
+<h4>सामाजिक सन्जाल </h4>
+
+<p align="center">
+<a href="https://youtube.com/Galkot" target="blank"><i class="fa fa-youtube fa-3x" aria-hidden="true"></i></a> &nbsp;
+<a href="https://instagram.com/galkot_baglung" target="blank"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a>&nbsp;
+<a href="https://twitter.com/officialGalkot" target="blank"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a> &nbsp;
+<a href="https://telegram.me/galkot" target="blank"><i class="fa fa-telegram fa-3x" aria-hidden="true"></i></a>&nbsp;
+
+
+
+
+</p>
+
+<h4>सामाजिक सन्जाल </h4>
+
+<div id="exTab1">
+<ul  class="nav nav-pills">
+
+			<li class="active">
+        <a  href="#1a" data-toggle="tab">Facebook</a>
+			</li>
+			<li><a href="#2a" data-toggle="tab">Youtube</a>
+			</li>
+
+			<li><a href="#3a" data-toggle="tab">Instagram</a>
+			</li>
+
+			<li><a href="#4a" data-toggle="tab">Twitter</a>
+			</li>
+			
+  		
+		</ul>
+
+			<div class="tab-content clearfix">
+
+			  <div class="tab-pane active" id="1a">
+
+				  <div class="abc">
+	          	  	<div class="fb-page" data-href="https://www.facebook.com/golkot/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/golkot/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/golkot/">Galkot</a></blockquote></div>
+	          	  </div>
+
+				 </div>
+
+
+				<div class="tab-pane" id="2a">
+					<div class="abc">
+          			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLiY4zFbQdWoJJiL40ZCQX9NOKUq0JZuKJ" frameborder="0" allowfullscreen></iframe>               
+          			</div>
+				</div>
+
+				<div class="tab-pane" id="3a">
+					<div class="abc">
+          			<script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/095d9e980bcc5b76aff9e08c4da148ed.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+          			</div>
+				</div>
+
+
+				<div class="tab-pane" id="4a">
+					<div class="abc">
+          			<a class="twitter-timeline" href="https://twitter.com/officialGalkot" width="auto" height="600" data-chrome="noscrollbar transparent">Tweets by Galkot</a> <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+          			</div>
+				</div>
+
+
+
+
+        
+			</div>
+  </div>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>

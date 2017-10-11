@@ -1,0 +1,286 @@
+---
+image: /assets/posts/galkotbus2.jpg
+layout : compress
+---
+
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	
+		
+		<head>
+		<meta charset="utf-8">
+  
+  <meta property="op:markup_version" content="v1.0">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }} | {{ site.des }}{% else %}{{ site.title | escape }} | {{ site.des }}{% endif %}</title>
+  
+
+  <meta property="fb:app_id" content="293571141079302">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="Galkot, Baglung, News from Galkot, Ghumte, Harichaur, GalkotNews, galkotkhabar, galkote songs, tourism, dhorpatan">
+
+  
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+
+<meta property="fb:pages" content="362192520548788" />
+<meta property="fb:article_style" content="myarticlestyle">
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:site" content="@ourgalkot" />
+<meta name="twitter:creator" content="@officialgalkot">
+<meta name="twitter:card" content="summary">
+
+
+		<!--[if lte IE 9]><link rel="stylesheet" href="cassets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="cassets/css/ie8.css" /><![endif]-->
+		<style type="text/css">
+		{% include one.css %}
+		</style>
+
+		{% seo %}
+	</head>
+
+	<body>
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Galkot</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="/posts">News</a></li>
+								<li><a href="/articles">Articles</a></li>
+								<li><a href="/gallery">Gallery</a></li>
+								<li><a href="/data">Data</a></li>
+								<li><a href="/about">About</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><span class="icon fa-diamond"></span></div>
+							<h2>Welcome to Galkot</h2>
+							<p>home to tourism, business and entire information, facts, data, news and articles from  <a href="/">OUR GALKOT</a></p>
+						</div>
+					</section>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic01.jpg" style="background-color: white;" alt="ji"></a>
+									<div class="content">
+										<h2 class="major">Information</h2>
+										<p>Here, we have compiled the every information you need about Galkot. Starting from the location, statistics, hospitals, hotels, tourism and more.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic02.jpg" style="background-color: white" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Tourist Attractions</h2>
+										<p>Galkot is rich with lots of beautiful places and mindblowing landscapes. Here we present you with all the tourism destination of Galkot, their details and more.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three" class="wrapper spotlight style3">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic03.jpg" style="background-color: white" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Gallery</h2>
+										<p>Get the most of Galkot's every photos and videos in dedicated gallery. You can use it at your ease.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+
+
+
+
+						<!-- Four -->
+							<section id="four" class="wrapper alt style1">
+								<div class="inner">
+
+									<h2 class="major">News, Blogs and Articles</h2>
+									<p>The best part of this web portal is we alert you with good news, information, blogs, and articles. </p>
+									<section class="features">
+
+									{% for post in site.posts limit: 4 %}
+										<article>
+											<h2 class="major">{{ post.title }}</h2>
+
+											<a href="{{ post.url | prepend: site.baseurl }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+											
+											<p><i class="fa fa-user" aria-hidden="true"></i>
+								    {{ post.author }} &nbsp;  <i class="fa fa-calendar-o" aria-hidden="true"></i>
+
+								     {{ post.date | date: "%b %-d, %Y" }} &nbsp;
+
+								    <i class="fa fa-folder-open-o" aria-hidden="true"></i> {{ post.categories}}
+
+
+								    &nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>
+								    {% assign words = post.content | number_of_words %}
+								    {% if words < 320 %}
+								    १ मिनेट 
+								    {% else %}
+								    {{ words | divided_by:180 }} मिनेट 
+								    {% endif %}</p>
+											<p>{{ post.description | strip_html | truncatewords: 20 }}</p>
+											<a href="{{ post.url | prepend: site.baseurl }}" class="special">read more</a>
+
+
+										</article>
+										{% endfor %}
+									</section>
+									<ul class="actions">
+										<li><a href="/posts" class="button">Browse All</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">Quick Links</h2>
+							
+							<form method="post" action="#">
+							<h2>Site Navigation</h2>
+								<ul class="new">
+								
+								<li><a href="/posts"> Blogs</a></li>
+								<li><a href="/articles">Articles</a></li>
+								<li><a href="/gallery">Gallery</a></li>
+								<li><a href="/wiki">Wiki</a></li>
+								<li><a href="/people">Public Figures</a></li>
+								<li><a href="/data">Data</a></li>
+								<li><a href="/posts">News</a></li>
+								<li><a href="/about"><a href="/posts"></a>About</li>
+								<li><a href="/contact">Contact Us</a></li>
+							</ul>
+							</form>
+							<ul class="contact">
+								<li class="fa-home">
+									ourgalkot.com<br /> 44810, 
+									Galkot<br />
+									Baglung
+								</li>
+								<li class="fa-envelope"><a href="mailto:bgalkot@gmail.com?Subject=webrefer">bgalkot[@]gmail.com</a></li>
+								<li class="fa-twitter"><a href="https://twitter.com/officialgalkot">twitter.com/officialgalkot</a></li>
+								<li class="fa-facebook"><a href="https://fb.com/golkot">facebook.com/golkot</a></li>
+								<li class="fa-instagram"><a href="https://instagram.com/_galkot">instagram.com/_galkot</a></li>
+								<li class="fa-youtube"><a href="https://youtube.com/galkot">youtube.com/galkot</a></li>
+							</ul>
+
+
+							<ul class="copyright">
+							<li><small>Since, this site is still in development, errors might prevail.</small> &nbsp; <li><small><a href="https://m.me/golkot">Contact us</a> for more</small></li> <li> site is curated by <a href="https://lakshmanbasnet.com" target="blank">lakshman</a></li>
+								<li>&copy; ourgalkot.com 2016-2017 All rights reserved.</li>
+								<li>Privacy Policy</li>
+								<li>Disclaimer</li>
+								<li>Sitemap</li>
+							</ul>
+							<br>
+							
+
+
+
+						</div>
+
+					</section>
+
+			</div>
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80349342-5', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+		<!-- Scripts -->
+			<script  src="cassets/js/skel.min.js" defer></script>
+			<script  src="cassets/js/jquery.min.js" defer></script>
+			<script  src="cassets/js/jquery.scrollex.min.js" defer></script>
+			<script  src="cassets/js/util.js" defer></script>
+			<!--[if lte IE 8]><script src="cassets/js/ie/respond.min.js"></script><![endif]-->
+			<script  src="cassets/js/main.js" defer></script>
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript" defer>  </script>
+
+
+<script defer>
+/* sixth CSS File */
+var giftofspeed2 = document.createElement('link'); 
+giftofspeed2.rel = 'stylesheet';
+giftofspeed2.href = 'https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic';
+giftofspeed2.type = 'text/css'; 
+var godefer2 = document.getElementsByTagName('link')[0]; 
+godefer2.parentNode.insertBefore(giftofspeed2, godefer2);
+</script>
+
+
+
+
+
+
+ <script type='text/javascript' async>  
+ //<![CDATA[  
+ $(document).ready(function() {  
+  $('img').each(function(){  
+   var $img = $(this);  
+   var filename = $img.attr('src')  
+   $img.attr('title', filename.substring((filename.lastIndexOf('/'))+1, filename.lastIndexOf('.')));  
+   $img.attr('alt', filename.substring((filename.lastIndexOf('/'))+1, filename.lastIndexOf('.')));  
+  });  
+ });  
+ //]]>  
+ </script>
+	</body>
+
+</html>

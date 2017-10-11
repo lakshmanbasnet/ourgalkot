@@ -1,0 +1,60 @@
+<br>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function () {
+
+    // Build the chart
+    Highcharts.chart('container', {
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        title: {
+            text: 'वडा अनुसार दलहरुले विजयी प्राप्त गरेको कुल वडासंख्या'
+        },
+        
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true
+                },
+                showInLegend: true
+            }
+        },
+        series: [{
+            name: 'Win % Ward',
+            colorByPoint: true,
+            data: [{
+                name: 'नेपाली कांग्रेस (७)',
+                y: 63.63636364
+            }, {
+                name: 'एमाले/ जनमोर्चा संयुक्त (२)',
+                y: 18.18181818,
+                sliced: true,
+                selected: true
+            }, {
+                name: 'माअाेवादि केन्द्र (२)',
+                y: 18.18181818
+                       
+            }]
+        }]
+    });
+});
+
+</script>
+<div class="row">
+<div id="container" style="min-width: 310px; height: 400px; max-width: auto; margin: 0 auto"></div>
+
+
+</div>
+<br>

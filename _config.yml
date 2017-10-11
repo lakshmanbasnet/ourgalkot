@@ -1,0 +1,43 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: हाम्रो गल्कोट 
+des: Galkot Municipality Baglung News Khabar Info FM Ghumte
+email: basnyatshreepali@gmail.com
+description:  # this means to ignore newlines until "baseurl:"
+ Galkot municipality Baglung, hamro galkot khabar fm live tour info, hatiya, harichaur school, Baglung, news, pache baja Ghumte Dhorpatan, samaj galkot durbar
+permalink: pretty
+permalink: /:categories/:title
+
+default_bg: /assets/logo.png
+
+owner:
+  name:           Galkot
+  avatar:         /assets/logo.png
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+assets:
+  compress:
+    html: true
+    js:  true
+    css: true
+
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []
+
