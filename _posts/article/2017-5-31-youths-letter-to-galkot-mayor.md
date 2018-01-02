@@ -2,7 +2,7 @@
 layout: post
 title:  गलकोट नगरका मेयरलाई विदेशबाट एक युवाको पत्र 
 date:   2017-05-31 06:07:42 +0545
-categories: article
+categories: post
 description: आदरणिय गलकोट नगरपालिका मेयर भरत शर्मा ज्यु समुन्द्रपारीबाट नमस्कार .. सामाजिक संजाल फेसबुक बाट नै सल्लाह सुझाब र अालोचनाको अपेक्षा सहितको तपाईको स्टाटस देखेपछि केही नलेखिरहन मनले मानेन ...| Galkot Municipality, Galkot News, Khabar, Information , Galkot, Baglung
 image: "/assets/posts/durgesh.jpg"
 author: दुर्गा बहादुर खत्री

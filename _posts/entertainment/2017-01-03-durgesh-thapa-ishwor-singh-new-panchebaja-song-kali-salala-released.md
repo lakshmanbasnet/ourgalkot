@@ -2,7 +2,7 @@
 layout: post
 title:  "दुर्गेश थापा र ईश्वर सिंहको पन्चेबाजा गीत काली सलल बजारमा "
 date:   2017-01-03 10:00:42 +0545
-categories: entertainment
+categories: post
 author: Galkot
 image: "/assets/posts/kalisalala.png"
 description: दुर्गेश थापा र ईश्वर सिंहको पन्चे बाजा गीत काली सलल सार्वजनिक भएको छ। ...| Galkot News, Khabar, Information

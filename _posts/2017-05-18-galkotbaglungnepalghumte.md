@@ -2,7 +2,7 @@
 layout: post
 title:  Galkot Municipality Galkot Baglung, Ghumte, Galkot FM, Panche Baja, Hatiya, Harichaur, Malma
 date:   2017-01-18 
-permalink: /keywordsforgalkot
+permalink: /galkot
 description: baglung, khabar,fm ghumte  panche baja hatiya school harichaur darbar higher secondary galkote sailo galkot fm live galkot samaaj malma baglung map hatiya bazar volleyball narethati nepali baja baglung.com durbar, galkotma bagyo darama, dashain, ghumte, hamro galkot, mahotsav
 ---
 This website contains information about following topics, Please browse across links and menus to know more.

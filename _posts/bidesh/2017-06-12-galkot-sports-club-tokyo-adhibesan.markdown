@@ -2,7 +2,7 @@
 layout: post
 title:  गलकोट स्पोर्ट्स क्लब टोकियोले प्रथम अधिबेशन गर्दै  
 date:   2017-06-12 07:07:42 +0545
-categories: bidesh
+categories: post
 description: स्वास्थ्यका लागि खेल ,राष्ट्रका लागि खेल भन्ने मुख्य नाराका साथ स्थापित  गल्कोट स्पोर्ट्स कल्व टोकियो जापानले यहि जुन १३ तारिक प्रथम अधिबेशन गर्ने तय गरेको छ। ...| Galkot News, Khabar, Information
 image: "/assets/posts/gss.jpg"
 author: Our Galkot Reporter Japan

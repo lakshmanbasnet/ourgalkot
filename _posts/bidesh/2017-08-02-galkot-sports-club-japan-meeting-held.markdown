@@ -2,7 +2,7 @@
 layout: post
 title:  गलकोट स्पोर्टस कल्ब टोकियोको प्रथम नियमित बैठक सम्पन्न, गलकोटको खेलकुद तथा शैक्षिक बिकासका लागी गलकोट समन्वय समिती निमार्ण  
 date:   2017-08-01 07:07:42 +0545
-categories: bidesh
+categories: post
 description: स्वास्थ्यका लागी खेल राष्ट्रका लागी खेल भन्ने मुल नाराका साथ बागलुङको गलकोट क्षेत्रबाट उच्च शिक्षा, बैदेशिक रोजगारी, ब्यवशाय र अन्य शिलशिलामा टोकियोमा रहेका गलकोटका युवाहरुबाट .. Galkot Sports Club Tokyo Japan, Galkot Municipality, Galkot FM
 image: "/assets/posts/galkotsportsc.jpg"
 author: Our Galkot Reporter Japan

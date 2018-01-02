@@ -2,7 +2,7 @@
 layout: post
 title:  "गलकोटलाई डेढ दशकपछि फर्केर हेर्दा..."
 date:   2016-12-28 10:07:42 +0545
-categories: article
+categories: post
 description: समय र परिवेश कत्ति बलवान रहेछ । विगतलाई एक पटक फर्केर हेर्दा म आफैंमा झसङ्ग हुन्छु । थाहै नपाइ अलि अलि गरी समयले बेस्सरी कोल्टो फेर्दो रहेछ । ...| Galkot News, Khabar, Information
 image: "/assets/posts/prakash.jpg"
 author: प्रकाश थापा

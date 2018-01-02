@@ -2,7 +2,7 @@
 layout: post
 title:  उसको तीन पुस्ते चुनाव
 date:   2017-05-08 18:07:42 +0545
-categories: article
+categories: post
 description: यतिबेला देशलाई स्थानीय निकायको चुनाबले पुरै छोपेको छ । चुनावी प्रचारप्रसारमा गाउँ देखी शहरसम्म बिभिन्न दलका झण्डा बोकेर घरदैलो अभियानमा जुट्नेहरुको झुण्डहरु बाक्लै देख्न सकिन्छ ।  ...| Galkot News, Khabar, Information
 image: "/assets/posts/electio1.jpg"
 author: Puran Shreesh

@@ -2,7 +2,7 @@
 layout: post
 title: संगीतकार श्रीकृष्ण बम मल्ल बने यमराज [भिडियो]
 date:   2017-01-27 17:00:42 +0545
-categories: entertainment
+categories: post
 author: Galkot
 image: "/assets/posts/shree.png"
 description: संगीतकार संगीतकार श्रीकृष्ण बम मल्ल नेपालका पशुपति शर्माको गीतमा यमराजको भूमिकामा प्रकट भएका छन्

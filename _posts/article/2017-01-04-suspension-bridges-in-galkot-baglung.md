@@ -2,7 +2,7 @@
 layout: post
 title:  "झोलुङ्गे पुलको जिल्ला बाग्लुङ्ग, बाग्लुङ्गको मुटु गल्कोट [Photo Feature]"
 date:   2017-01-04 19:07:42 +0545
-categories: article
+categories: post
 description: बागलुङलाई चिनाउने आधारभूत पहिचान भनेकै झोलुङ्गे पुल हो र गल्कोट बाग्लुंगको मुटु हो। गल्कोटका केहि झोलुङ्गे पुलहरुको सुन्दर तस्वीरहरु | Galkot News, Khabar, Information
 
 author: Galkot

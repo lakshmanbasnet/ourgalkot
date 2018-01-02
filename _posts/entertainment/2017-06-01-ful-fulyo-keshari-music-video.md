@@ -2,7 +2,7 @@
 layout: post
 title: प्रकाश कटवाल र लक्ष्मी मल्लको लोक दोहोरि गीत फुल फुल्यो केसरी सार्वजनिक[भिडियो]
 date:   2017-06-01
-categories: entertainment
+categories: post
 author: Galkot
 image: /assets/posts/ful.png
 description: गल्कोट, बाग्लुङ्गकि चर्चित गायिका लक्ष्मी मल्लको स्वर रहेको लोक दोहोरि गीत फुल फुल्यो केसरी युटुवमार्फत सार्वजनिक भएको छ । ..| Galkot Municipality, Galkot Khabar, FM News, Panchebaja

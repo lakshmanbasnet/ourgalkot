@@ -2,7 +2,7 @@
 layout: post
 title:  "पर्यटकीय विकासको प्रतीक्षामा गलकोट"
 date:   2016-12-29 10:07:42 +0545
-categories: article
+categories: post
 description: विश्वव्यापी रुपमा पर्यटन व्यवसाय धुँवा रहित व्यवसायका रुपमा चिरपरिचित छ । विश्वका विभिन्न मुलुकहरु मध्ये नेपाल पर्यटन ...| Galkot News, Khabar, Information
 image: "/assets/posts/prakash.jpg"
 author: प्रकाश थापा

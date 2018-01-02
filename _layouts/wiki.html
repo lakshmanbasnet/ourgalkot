@@ -19,13 +19,16 @@ credit: "galkot"
            <div class="row">
       <div class="col-md-6">
 
+{% if page.type != nil %}
 <i class="fa fa-shopping-bag" aria-hidden="true"></i> {{ page.type }}<br>
 
-  <i class="fa fa-map-marker" aria-hidden="true"></i> {{ page.location }}
 
-  <br>
+{% if page.location != nil %}
+  <i class="fa fa-map-marker" aria-hidden="true"></i> {{ page.location }}<br>  {% endif %}
+  {% endif %}
 
-    {% if page.website != nil %}
+
+    {% if page.website != nil %}  
   <i class="fa fa-firefox" aria-hidden="true"></i> <a href="http://{{ page.website }}">{{ page.website }}</a><br>  {% endif %}
 
    {% if page.fb != nil %}
@@ -51,6 +54,7 @@ credit: "galkot"
 </div>
  
 <hr>
+{{ page.gmap }}
   <b>Description</b><br>
   {{ page.description }}
 

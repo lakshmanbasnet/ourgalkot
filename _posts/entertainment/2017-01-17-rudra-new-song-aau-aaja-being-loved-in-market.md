@@ -2,7 +2,7 @@
 layout: post
 title:  "दर्शकले मन पराए रुद्र थापाको आउ आज बाचा गरी गीत "
 date:   2017-01-17 11:00:42 +0545
-categories: entertainment
+categories: post
 author: Galkot
 image: "/assets/posts/aauaja.png"
 description: रुद्र थापा र सुष्मा बिकको आउ आज बाचा गरी बोलको गीत युटुबमा रिलिज गरिएसंगै दर्शकहरुको माया पाउन सफल भएको छ। ...| Galkot News, Khabar, Information

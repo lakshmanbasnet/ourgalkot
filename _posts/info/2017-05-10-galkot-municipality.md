@@ -2,7 +2,7 @@
 layout: post
 title:  गल्कोट नगरपालिकाको संक्षिप्त जानकारी
 date:   2017-05-10
-categories: info
+categories: post
 description: समावेश भएका साविक गाविसका वडाहरु दुधिलाभाटि, नरेठाटी, हटिया, हरिचौर, मल्म, काँडेवास , पाण्डवखानी र रिघा, जनसंख्या ३३, ०९७...| Galkot News, Khabar, Information
 author: Galkot
 image: /images/bg.jpg

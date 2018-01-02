@@ -2,7 +2,7 @@
 layout: post
 title:  "गल्कोटका २० वर्षीय निशानको वेलायतमा फुटबल खेल्दै गर्दा अचानक मृत्यु"
 date:   2016-12-30 09:00:42 +0545
-categories: bidesh
+categories: post
 author: <a href="http://www.nagariknews.com/news/11510" target="blank">Nagarik News</a>
 image: "/assets/posts/nishan.jpg"
 description: गल्कोट घर भइ बुवा आमासँग वेलायत बस्दै आएका २० वर्षीया निशान भण्डारीको साथीहरुसँग फुटबल खेलिरहेका  बेला अचानक ढलेपछि ... | Galkot News, Khabar, Information

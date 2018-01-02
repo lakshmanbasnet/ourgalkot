@@ -2,7 +2,7 @@
 layout: post
 title: राम खत्रीको शब्द इश्वर सिंहको अभिनयमा अर्जुनको मायासंग माया साटौला पन्चेबाजा गीत बजारमा[भिडियो]
 date:   2017-06-02
-categories: entertainment
+categories: post
 author: Galkot
 image: /assets/posts/panche.png
 description: गल्कोट का चर्चित युवा स्रस्टा राम खत्रीको शव्द रहेको पन्चे बाजा गीत माया संग माया साटौला बजारमा आएको छ । यस गीतमा अर्जुन गौतम र अमृता नेपालीको स्वर भरेका छन् । ..| Galkot Municipality, Galkot Khabar, FM News, Panchebaja

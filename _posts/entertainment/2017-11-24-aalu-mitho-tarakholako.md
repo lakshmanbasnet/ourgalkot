@@ -2,7 +2,7 @@
 layout: post
 title: वसन्त थापाको पन्चेबाजा भाका आलु मिठो तारा खोलाको सार्वजनिक [भिडियो]
 date:   2017-11-24
-categories: entertainment
+categories: post
 author: Galkot
 image: "/assets/posts/alu.png"
 description: गगल्कोटका ख्यातिप्राप्त गायक तथा सर्जक वसन्त थापाको नया पन्चे बाजा गीत `आलु मिठो ताराखोलाको` आज युटुब मार्फत सार्वजनिक भएको छ । ..| Galkot Municipality, Basanta Thapa, PancheBaja Song, News, Khabar, Information
