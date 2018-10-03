@@ -2,7 +2,7 @@
 layout: post
 title:  SEE परिक्षाको रिजल्ट Website, SMS र IVR मा हेर्ने तरिका 
 date:   2017-06-14
-categories: news
+categories: post
 description: २०७३ सालको नियमित तथा ग्रेडवृद्धि SEE परीक्षाको नतिजा सम्वन्धि विवरण Website, SMS र IVR बाट तल उल्लेखित स्रोतबाट हेर्न सकिने परिक्षा नियन्त्रण कार्यालयले एक सुचना निकाल्दै जानकारी दिएको छ । SEE result 2073 Nepal Board SLC exam online website sms ivr
 author: Galkot
 image: /assets/posts/see.png
