@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script>
+  $(document).ready(function(){
+  $('#myModal').modal('show'); 
+  setTimeout(function(){
+  $('#myModal').modal('hide'); 
+  }, 5000);
+   });
+  </script>
+  <style>
+.loader {
+  text-align: center;
+  
+  
+  
+}
+
+
+.modal-dialog{
+width: 400px;
+padding: 40px;
+  
+}
+.modal-content{
+background-color: transparent; 
+   border: 0;
+    border-radius: 0;
+    outline: 0;
+    box-shadow: none;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- Modal -->
+  <div class="modal fade" data-backdrop="static" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+
+        <div class="modal-body">
+         <div class="loader">
+          <h3>Like us in facebook</h3>
+           <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fgolkot&tabs&width=340&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=293571141079302" width="340" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+         </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
